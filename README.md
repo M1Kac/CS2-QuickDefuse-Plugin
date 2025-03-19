@@ -15,5 +15,5 @@ Adds a wire-cutting mini-game to bomb planting and defusing.
 - Extract the .zip file into `addons/counterstrikesharp/plugins`
 - Enjoy
 
-> [!CAUTION]
+> [!WARNING]
 > Default E selection is not supported.
