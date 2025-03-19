@@ -1,0 +1,7 @@
+{
+    "cut_wire_menu": "Cut a Wire",
+    "select_wire_menu": "Select a Wire Color",
+    "wire_selected": "{green}[ QUICK-DEFUSE ] {default}You selected the {0}{1}{default} wire.",
+    "bomb_defused": "{green}[ QUICK-DEFUSE ] {lightblue}{0} {default}chose the {green}correct wire{default}! Bomb has been defused.",
+    "bomb_exploded": "{green}[ QUICK-DEFUSE ] {lightblue}{0} {default}chose the {red}wrong wire{default}! The correct wire was {1}{2}{default}."
+}
