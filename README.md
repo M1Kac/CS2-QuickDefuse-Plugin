@@ -7,7 +7,7 @@ Adds a wire-cutting mini-game to bomb planting and defusing.
 # Requirements
 [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
 
-[CS2-GameHUD](https://github.com/darkerz7/CS2-GameHUD/tree/main)
+[CS2ScreenMenuAPI](https://github.com/T3Marius/CS2ScreenMenuAPI)
 
 
 # Instalation
