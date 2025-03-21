@@ -19,7 +19,7 @@ namespace QuickDefuse
     {
         public override string ModuleName => "QuickDefuse";
         public override string ModuleAuthor => "M1K@c";
-        public override string ModuleVersion => "1.0.0";
+        public override string ModuleVersion => "1.0.1";
         public override string ModuleDescription => "Adds a wire-cutting mini-game to bomb planting and defusing.";
 
         public required QuickDefuseConfig Config { get; set; }
@@ -182,7 +182,6 @@ namespace QuickDefuse
             var plantedBomb = FindPlantedBomb();
             if (plantedBomb == null) return;
 
-            plantedBomb.TimerLength = 0f;
             plantedBomb.C4Blow = 0f;
         }
 
